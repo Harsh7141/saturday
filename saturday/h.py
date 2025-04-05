@@ -22,6 +22,8 @@ i=len(rev)-1
 while i>=0:
 
     x=rev[i]
+
+    "harsh"
     i-=1"""
 
 x= {"name":"harsh","profession":"it","marks":{"physics":80,"maths":82}}
